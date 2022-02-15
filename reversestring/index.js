@@ -15,6 +15,7 @@ function reverse(str) {
     */
 
     let reversed = '';
+    let ojasvi ="Hello";
 
     for(let character of str){
         reversed = character + reversed;
